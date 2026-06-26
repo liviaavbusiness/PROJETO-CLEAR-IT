@@ -1,4 +1,4 @@
-# CLEAR IT - Copiloto de Pré-Vendas Baseado em IA
+# PROJETO CLEAR IT - Copiloto de Pré-Vendas
 
 ## 1. Visão do projeto
 
