@@ -1,4 +1,4 @@
-# PROJETO Clear IT – Intelligent Pre-Sales Copilot
+# PROJETO CLEAR IT – Intelligent Pre-Sales Copilot
 
 > MVP desenvolvido para o desafio da Clear IT, com foco na estruturação do conhecimento consultivo da pré-venda por meio de Inteligência Artificial.
 
