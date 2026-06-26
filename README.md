@@ -79,6 +79,50 @@ docs/
 
 A documentação foi organizada seguindo os princípios de Spec-as-Code, priorizando o entendimento do negócio antes do desenvolvimento da solução.
 
+# Evolução e Estrutura do Projeto
+
+O projeto está sendo desenvolvido de forma incremental, priorizando inicialmente a compreensão profunda do problema de negócio e evoluindo progressivamente até a construção de uma solução inteligente de apoio ao processo de pré-vendas consultivas da Clear IT.
+
+A evolução prevista da solução seguirá as seguintes etapas:
+
+**MVP 1 → Assistente de Discovery Comercial e Técnico**
+
+Auxilia profissionais durante a etapa inicial de discovery, apoiando identificação de necessidades, levantamento de contexto e detecção de lacunas de informação.
+
+**MVP 2 → Sistema Inteligente de Recomendação de Soluções**
+
+Relaciona necessidades identificadas às soluções aderentes ao portfólio da Clear IT.
+
+**MVP 3 → Gerador Inteligente de Propostas Consultivas**
+
+Apoia a construção inicial de propostas comerciais a partir das informações levantadas durante o discovery.
+
+**MVP 4 → Copiloto de Pré-Vendas Baseado em Inteligência Artificial**
+
+Acompanha o processo consultivo de ponta a ponta, auxiliando decisões técnicas e comerciais.
+
+**MVP 5 → Arquiteto de Soluções Autônomo Baseado em Inteligência Artificial**
+
+Sistema capaz de atuar com maior autonomia no apoio consultivo e no desenho inicial de soluções complexas.
+
+---
+
+A documentação do projeto está organizada utilizando princípios de Spec-as-Code, garantindo que o entendimento do negócio seja definido antes da implementação técnica.
+
+Estrutura atual:
+
+docs/
+
+├── business-context-lite.md
+
+├── technical-context-lite.md
+
+├── onion-cycles.md
+
+└── knowledge-base/
+
+└── clear-it.md
+
 ---
 
 # Tecnologias (Previstas)
@@ -146,6 +190,33 @@ Status atual:
 - Iniciar o desenvolvimento do MVP;
 - Integrar a Base de Conhecimento ao agente inteligente;
 - Realizar testes com cenários reais de pré-venda.
+
+---
+# Evolução e Estrutura do Projeto
+
+O projeto está sendo desenvolvido de forma incremental, priorizando inicialmente a compreensão profunda do problema de negócio e evoluindo progressivamente até a construção de uma solução inteligente de apoio ao processo de pré-vendas consultivas da Clear IT.
+
+A evolução prevista da solução seguirá as seguintes etapas:
+
+**MVP 1 → Assistente de Discovery Comercial e Técnico**
+
+Auxilia profissionais durante a etapa inicial de discovery, apoiando identificação de necessidades, levantamento de contexto e detecção de lacunas de informação.
+
+**MVP 2 → Sistema Inteligente de Recomendação de Soluções**
+
+Relaciona necessidades identificadas às soluções aderentes ao portfólio da Clear IT.
+
+**MVP 3 → Gerador Inteligente de Propostas Consultivas**
+
+Apoia a construção inicial de propostas comerciais a partir das informações levantadas durante o discovery.
+
+**MVP 4 → Copiloto de Pré-Vendas Baseado em Inteligência Artificial**
+
+Acompanha o processo consultivo de ponta a ponta, auxiliando decisões técnicas e comerciais.
+
+**MVP 5 → Arquiteto de Soluções Autônomo Baseado em Inteligência Artificial**
+
+Sistema capaz de atuar com maior autonomia no apoio consultivo e no desenho inicial de soluções complexas.
 
 ---
 
