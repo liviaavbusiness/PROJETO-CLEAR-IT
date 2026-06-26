@@ -118,8 +118,6 @@ MVP 3 → Gerador Inteligente de Propostas Consultivas
 
 MVP 4 → Copiloto de Pré-Vendas Baseado em IA
 
-MVP 5 → Autonomous Solution Architect Agent
-
 # 9. Evolução do Produto (Roadmap)
 
 A solução proposta possui uma visão incremental de evolução, iniciando com apoio consultivo ao processo de discovery e evoluindo para um sistema inteligente capaz de acompanhar toda a jornada de pré-vendas.
