@@ -1,4 +1,4 @@
-# PROJETO CLEAR IT - Público, dores, fluxo e gargalo
+# PROJETO CLEAR IT - Desafio, dores do público, fluxo e gargalo do projeto
 
 ## Visão Geral
 
@@ -206,3 +206,79 @@ Atualmente, esse conhecimento encontra-se majoritariamente concentrado em especi
 A Clear IT possui um modelo comercial baseado em venda consultiva complexa, no qual o processo de entender o cliente, interpretar necessidades técnicas e construir soluções personalizadas depende fortemente da experiência individual de especialistas técnicos.
 
 Essa dependência dificulta escalabilidade, reduz eficiência operacional e impede que o conhecimento estratégico da empresa seja transformado em um processo estruturado e reutilizável.
+# Problema Central do Negócio
+
+## Entendimento Estratégico do Desafio
+
+Após análise do modelo de atuação da Clear IT, do portfólio da empresa, das propostas comerciais existentes e do processo atual de pré-vendas, foi identificado que o desafio principal da empresa não está apenas na execução operacional da pré-venda.
+
+O problema central possui natureza estratégica e está diretamente relacionado à forma como o conhecimento consultivo da organização é utilizado durante o processo comercial.
+
+A Clear IT opera em um modelo de venda consultiva altamente técnica, no qual cada oportunidade exige interpretação aprofundada do cenário do cliente e construção personalizada da solução proposta.
+
+Nesse contexto, grande parte da capacidade de gerar valor depende diretamente da experiência individual dos especialistas técnicos responsáveis por conduzir essa análise.
+
+---
+
+## O Ativo Estratégico da Empresa
+
+O principal ativo operacional da Clear IT não é apenas seu portfólio de soluções tecnológicas.
+
+O ativo mais valioso da empresa é o conhecimento técnico-consultivo acumulado por especialistas capazes de:
+
+* interpretar cenários complexos apresentados pelos clientes;
+* identificar problemas técnicos reais por trás das demandas iniciais;
+* relacionar necessidades específicas ao portfólio da empresa;
+* selecionar arquiteturas adequadas considerando múltiplas possibilidades tecnológicas;
+* construir recomendações técnicas personalizadas conforme cada contexto empresarial.
+
+Esse conhecimento representa parte central da capacidade competitiva da empresa.
+
+---
+
+## Problema Estrutural Identificado
+
+Atualmente, esse conhecimento consultivo permanece majoritariamente concentrado em profissionais específicos.
+
+Grande parte da inteligência necessária para conduzir uma pré-venda eficiente não está estruturada como processo organizacional formal, base de conhecimento acessível ou lógica reutilizável dentro da empresa.
+
+Como consequência, a operação permanece excessivamente dependente da atuação individual de especialistas técnicos.
+
+---
+
+## Consequências Operacionais
+
+A manutenção desse cenário gera impactos diretos sobre a operação da empresa.
+
+Principais consequências identificadas:
+
+* dependência excessiva de especialistas específicos;
+* dificuldade em escalar operações mantendo qualidade consultiva;
+* tempo elevado na análise de oportunidades comerciais;
+* repetição constante de atividades consultivas semelhantes;
+* aumento de retrabalho quando informações são levantadas de forma incompleta;
+* dificuldade em acelerar formação de novos profissionais;
+* conhecimento estratégico permanecendo centralizado em pessoas e não em processos.
+
+---
+
+## Problema Central Consolidado
+
+O principal desafio da Clear IT consiste em transformar o conhecimento consultivo atualmente concentrado em especialistas técnicos em um processo estruturado, replicável e reutilizável, capaz de manter qualidade técnica, reduzir dependência operacional e permitir escalabilidade sustentável da operação comercial.
+
+---
+
+## Oportunidade Estratégica Identificada
+
+Caso esse conhecimento seja estruturado e sistematizado, a empresa poderá:
+
+* aumentar autonomia da equipe comercial e pré-vendas;
+* reduzir dependência operacional sobre especialistas específicos;
+* acelerar o processo de construção de soluções;
+* reduzir retrabalho na análise de oportunidades;
+* preservar conhecimento estratégico dentro da organização;
+* criar uma operação comercial-consultiva mais escalável.
+
+O desafio não consiste apenas em automatizar tarefas.
+
+O verdadeiro desafio consiste em transformar inteligência consultiva humana em capacidade operacional escalável para toda a empresa.
