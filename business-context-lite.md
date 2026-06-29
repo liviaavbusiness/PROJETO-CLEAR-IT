@@ -1,4 +1,4 @@
-# PROJETO CLEAR IT - Público Impactado e Dores do Negócio
+# PROJETO CLEAR IT - Público, dores, fluxo e gargalo
 
 ## Visão Geral
 
@@ -78,7 +78,130 @@ Como consequência, a empresa enfrenta limitações operacionais importantes.
 
 ---
 
-## Problema Central Consolidado
+# Processo Atual de Pré-Vendas e Gargalos Operacionais
+
+## Visão Geral do Processo Comercial
+
+A Clear IT atua em um modelo de venda consultiva altamente técnica, no qual cada oportunidade comercial exige análise individualizada do contexto do cliente e construção personalizada da solução proposta.
+
+Diferentemente de processos comerciais tradicionais, a empresa não trabalha apenas com venda de produtos ou serviços padronizados.
+
+Cada oportunidade demanda interpretação técnica aprofundada, associação com diferentes soluções do portfólio e elaboração de arquiteturas específicas conforme a necessidade identificada.
+
+O processo atual depende fortemente da atuação conjunta entre área comercial, pré-vendas e especialistas técnicos.
+
+---
+
+## Fluxo Atual da Pré-Venda
+
+O processo atual pode ser representado nas seguintes etapas:
+
+### 1. Recebimento da oportunidade comercial
+
+O cliente apresenta uma necessidade inicial relacionada a infraestrutura, segurança, observabilidade, armazenamento, conectividade, continuidade operacional ou modernização tecnológica.
+
+A equipe comercial realiza o primeiro contato e identifica o cenário inicial.
+
+---
+
+### 2. Levantamento inicial de necessidades
+
+A equipe comercial ou pré-vendas coleta informações preliminares sobre o contexto do cliente, ambiente tecnológico existente, objetivos de negócio e necessidade apresentada.
+
+Nessa etapa, a qualidade das informações levantadas influencia diretamente todas as etapas seguintes.
+
+---
+
+### 3. Acionamento dos especialistas técnicos
+
+Diante de cenários mais complexos, especialistas técnicos são acionados para interpretar o contexto apresentado e aprofundar o entendimento da necessidade real do cliente.
+
+Esses profissionais utilizam conhecimento técnico acumulado para identificar o problema central.
+
+---
+
+### 4. Tradução da necessidade em solução tecnológica
+
+Após compreender o cenário do cliente, especialistas transformam a necessidade identificada em uma proposta de solução aderente ao portfólio da empresa.
+
+Essa etapa exige análise técnica, avaliação de riscos, comparação entre alternativas e seleção de tecnologias adequadas.
+
+---
+
+### 5. Associação com portfólio e parceiros tecnológicos
+
+A solução é construída considerando as ofertas disponíveis dentro da empresa, incluindo serviços próprios e tecnologias de parceiros estratégicos.
+
+Entre essas soluções encontram-se infraestrutura, nuvem, cibersegurança, observabilidade, serviços gerenciados e arquiteturas especializadas.
+
+---
+
+### 6. Construção da proposta técnica e comercial
+
+A equipe consolida a arquitetura proposta e estrutura uma proposta personalizada contendo componentes técnicos, serviços, escopo de implementação, suporte, licenciamento e recomendações estratégicas.
+
+Cada proposta depende diretamente da qualidade do diagnóstico realizado nas etapas anteriores.
+
+---
+
+## Principais Gargalos Identificados
+
+### Gargalo 1 — Coleta inicial incompleta de informações
+
+Quando o entendimento inicial do cliente não é suficientemente aprofundado, especialistas precisam revisar informações já levantadas ou retornar etapas anteriores.
+
+Impactos:
+
+* retrabalho;
+* perda de tempo operacional;
+* atraso no ciclo comercial.
+
+---
+
+### Gargalo 2 — Dependência excessiva de especialistas técnicos
+
+Grande parte da capacidade consultiva necessária para interpretar oportunidades encontra-se concentrada em profissionais específicos.
+
+Impactos:
+
+* baixa escalabilidade operacional;
+* sobrecarga dos especialistas;
+* dificuldade em distribuir conhecimento.
+
+---
+
+### Gargalo 3 — Associação manual entre necessidade e portfólio
+
+A Clear IT possui um portfólio amplo e tecnicamente complexo, exigindo experiência acumulada para selecionar combinações adequadas de soluções.
+
+Impactos:
+
+* processo consultivo lento;
+* dificuldade em replicar conhecimento especializado;
+* inconsistência entre diferentes profissionais.
+
+---
+
+### Gargalo 4 — Construção altamente personalizada de propostas
+
+Cada proposta depende de diagnóstico técnico individual e construção específica conforme o cenário do cliente.
+
+Impactos:
+
+* tempo elevado até conclusão da proposta;
+* dependência direta da qualidade da análise consultiva;
+* dificuldade em acelerar o processo comercial.
+
+---
+
+## Conhecimento Crítico Identificado
+
+O principal ativo estratégico da Clear IT não está apenas em seu portfólio tecnológico.
+
+O ativo mais importante da empresa é a capacidade consultiva de interpretar problemas empresariais complexos e transformá-los em arquiteturas tecnológicas aderentes às necessidades do cliente.
+
+Atualmente, esse conhecimento encontra-se majoritariamente concentrado em especialistas técnicos e ainda não estruturado como processo organizacional reutilizável.
+
 
 A Clear IT possui um modelo comercial baseado em venda consultiva complexa, no qual o processo de entender o cliente, interpretar necessidades técnicas e construir soluções personalizadas depende fortemente da experiência individual de especialistas técnicos.
 
