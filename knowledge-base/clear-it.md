@@ -6,117 +6,232 @@ A Clear IT é uma empresa brasileira especializada em consultoria e implementaç
 
 ---
 
-## Principais Áreas de Atuação
+## Áreas de Atuação
 
-### Computação em Nuvem
+A empresa organiza seu portfólio em grandes áreas estratégicas.
 
-Serviços relacionados à construção, migração e gerenciamento de ambientes em nuvem.
+### Infraestrutura e Nuvem
 
-Exemplos:
+Soluções voltadas para modernização, escalabilidade e disponibilidade operacional.
 
-* migração para nuvem;
-* infraestrutura escalável;
-* containers;
-* Kubernetes;
-* AWS;
-* Azure;
-* modernização de infraestrutura.
+Inclui:
+
+* estratégia de adoção em nuvem;
+* ambientes híbridos;
+* resiliência de dados;
+* armazenamento corporativo;
+* comunicação entre datacenter e ambientes distribuídos;
+* infraestrutura para inteligência artificial.
+
+Principais problemas resolvidos:
+
+* ambientes obsoletos;
+* baixa escalabilidade;
+* indisponibilidade operacional;
+* dificuldade de expansão;
+* baixa resiliência tecnológica.
 
 ---
 
 ### Cibersegurança
 
-Soluções voltadas para proteção, monitoramento e resposta a incidentes de segurança digital.
+Soluções voltadas para proteção de ambientes corporativos.
 
-Exemplos:
+Inclui:
 
-* monitoramento de segurança;
-* gestão de acessos;
-* proteção de dados;
-* detecção de vulnerabilidades;
-* resposta a incidentes;
-* segurança corporativa.
+* proteção de perímetro;
+* proteção de dispositivos;
+* proteção de identidade;
+* gestão de vulnerabilidades;
+* microsegmentação;
+* conscientização e simulações.
 
----
+Problemas resolvidos:
 
-### Observabilidade
-
-Serviços focados em monitoramento e visibilidade dos ambientes tecnológicos.
-
-Exemplos:
-
-* monitoramento de infraestrutura;
-* análise de logs;
-* rastreamento distribuído;
-* análise de performance;
-* monitoramento de aplicações;
-* detecção de falhas.
+* invasões;
+* vazamento de dados;
+* exposição de credenciais;
+* acessos indevidos;
+* ataques internos e externos.
 
 ---
 
-### Inteligência Artificial
+### Centro de Operações de Segurança
 
-Uso de inteligência artificial para automação de processos, análise inteligente e apoio à tomada de decisão.
+Monitoramento contínuo de segurança digital.
 
-Exemplos:
+Inclui:
 
-* agentes inteligentes;
-* automação de fluxos;
-* análise preditiva;
-* assistentes inteligentes;
-* inteligência operacional.
+* gestão de logs;
+* monitoramento de eventos;
+* análise comportamental;
+* inteligência de ameaças;
+* automação de resposta a incidentes.
 
----
+Problemas resolvidos:
 
-## Principais Desafios dos Clientes
-
-Empresas atendidas por consultorias como a Clear IT normalmente enfrentam desafios como:
-
-* baixa visibilidade sobre ambientes tecnológicos;
-* crescimento desorganizado da infraestrutura;
-* riscos de segurança digital;
-* ambientes complexos distribuídos entre múltiplas plataformas;
-* dificuldade de escalar operações;
-* dificuldade em reduzir custos operacionais;
-* necessidade constante de modernização tecnológica.
+* baixa visibilidade de ameaças;
+* resposta lenta a incidentes;
+* ausência de monitoramento contínuo.
 
 ---
 
-## Processo Consultivo de Pré-Vendas
+### Centro de Operações Cognitivas
 
-O processo de pré-vendas dentro da Clear IT exige forte conhecimento técnico e consultivo.
+Monitoramento operacional e inteligência sobre infraestrutura.
 
-Normalmente envolve:
+Inclui:
 
-* entendimento inicial do cliente;
-* levantamento de contexto;
-* identificação do problema real;
-* investigação técnica;
-* análise da necessidade;
-* recomendação consultiva;
-* construção de proposta.
-
----
-
-## Conhecimento Estratégico Necessário
-
-Um especialista da Clear IT normalmente precisa dominar conhecimentos como:
-
-* arquitetura de infraestrutura;
-* computação em nuvem;
-* cibersegurança corporativa;
 * observabilidade;
-* diagnóstico técnico;
-* análise consultiva;
-* arquitetura de soluções;
-* desenho de soluções tecnológicas.
+* automação operacional;
+* análise preditiva;
+* dashboards gerenciais;
+* resposta a incidentes;
+* recomendações de evolução.
+
+Problemas resolvidos:
+
+* falhas recorrentes;
+* indisponibilidade;
+* baixa visibilidade operacional;
+* excesso de tarefas manuais.
 
 ---
 
-## Insight Estratégico do Projeto
+## Modelo Comercial
 
-O principal ativo estratégico da Clear IT não está apenas em seu portfólio tecnológico.
+A Clear IT opera em modelo consultivo.
 
-Grande parte do valor da empresa está concentrado no conhecimento consultivo acumulado pelos especialistas responsáveis pela etapa de pré-vendas.
+Fluxo comum:
 
-O objetivo do projeto é estruturar parte desse conhecimento em um sistema baseado em inteligência artificial capaz de apoiar, padronizar e escalar esse processo.
+Cliente apresenta problema > Equipe comercial recebe oportunidade > Pré-vendas realiza entendimento inicial > Especialistas aprofundam análise > Necessidade empresarial é convertida em necessidade tecnológica > Especialistas desenham solução personalizada.
+
+# Modelo de Raciocínio dos Especialistas
+
+## Problema Central
+
+Grande parte do conhecimento estratégico da Clear IT encontra-se distribuída entre especialistas técnicos responsáveis por interpretar necessidades complexas dos clientes.
+
+O projeto busca estruturar parte desse raciocínio.
+
+---
+
+## Processo Mental dos Especialistas
+
+Quando uma oportunidade chega, o especialista não pensa primeiro em produto.
+
+O processo normalmente segue esta lógica.
+
+### Etapa 1 — Compreender o cenário empresarial
+
+Perguntas implícitas:
+
+* qual setor da empresa?
+* qual operação depende da infraestrutura?
+* qual impacto financeiro existe?
+
+---
+
+### Etapa 2 — Identificar a dor real
+
+O cliente normalmente descreve sintomas.
+
+Exemplo:
+
+“Estamos tendo falhas constantes.”
+
+O especialista investiga:
+
+* problema de infraestrutura?
+* problema de rede?
+* problema de segurança?
+* ausência de monitoramento?
+
+---
+
+### Etapa 3 — Avaliar riscos
+
+O especialista identifica riscos técnicos e operacionais.
+
+Exemplo:
+
+* indisponibilidade;
+* vazamento de dados;
+* perda financeira;
+* interrupção operacional.
+
+---
+
+### Etapa 4 — Relacionar ao portfólio
+
+Somente após compreender o problema o especialista relaciona soluções.
+
+Exemplo:
+
+Problema de segurança > Proteção de perímetro > Gestão de vulnerabilidades > Monitoramento contínuo > Centro de operações de segurança
+
+---
+
+## Objetivo do Projeto
+
+O agente de inteligência artificial da STACK 5 deverá reproduzir parcialmente esse raciocínio consultivo.
+
+# Relação Entre Problemas e Soluções
+
+## Se o cliente apresenta risco de segurança
+
+Possíveis soluções:
+
+* firewall corporativo;
+* proteção de identidade;
+* gestão de vulnerabilidades;
+* monitoramento contínuo;
+* centro de operações de segurança.
+
+---
+
+## Se o cliente apresenta falhas operacionais
+
+Possíveis soluções:
+
+* observabilidade;
+* monitoramento contínuo;
+* automação operacional;
+* análise preditiva.
+
+---
+
+## Se o cliente possui infraestrutura limitada
+
+Possíveis soluções:
+
+* migração para nuvem;
+* ambientes híbridos;
+* virtualização;
+* hiperconvergência;
+* modernização de infraestrutura.
+
+---
+
+## Se o cliente possui risco de perda de dados
+
+Possíveis soluções:
+
+* backup corporativo;
+* resiliência de dados;
+* armazenamento redundante;
+* recuperação de desastres.
+
+---
+
+## Se o cliente precisa reduzir tarefas manuais
+
+Possíveis soluções:
+
+* automação operacional;
+* inteligência artificial aplicada;
+* monitoramento automatizado.
+
+
+Proposta técnica é construída
+
