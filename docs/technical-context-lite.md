@@ -1,95 +1,60 @@
 # PROJETO CLEAR IT - Contexto Técnico
 
-## Solução Proposta
+# Arquitetura Conceitual do Sistema
 
-Desenvolver um sistema baseado em inteligência artificial capaz de apoiar o processo de pré-vendas consultivas da Clear IT, auxiliando profissionais durante a etapa de discovery e recomendação inicial de soluções.
+## Objetivo
 
----
-
-## Arquitetura Conceitual
-
-### Camada de Entrada
-
-Responsável por receber informações iniciais sobre a oportunidade comercial.
-
-Entradas possíveis:
-
-* briefing inicial;
-* informações do cliente;
-* contexto do negócio;
-* descrição do problema apresentado.
+Construir um agente inteligente capaz de apoiar o processo consultivo de pré-vendas da Clear IT. O sistema deverá estruturar parte do raciocínio normalmente realizado por especialistas técnicos.
 
 ---
 
-### Camada de Inteligência
+## Fluxo do Agente
 
-Responsável pelo raciocínio consultivo do sistema.
-
-Funções esperadas:
-
-* interpretar oportunidade;
-* identificar contexto técnico;
-* detectar lacunas de informação;
-* sugerir perguntas contextualizadas;
-* relacionar necessidade ao portfólio;
-* apoiar análise consultiva.
+Entrada inicial do contexto do cliente > Interpretação da necessidade apresentada > Identificação da dor empresarial > Classificação do domínio tecnológico > Consulta à base de conhecimento interna > Detecção de informações ausentes > Geração de perguntas contextualizadas > Associação ao portfólio da empresa > Construção de hipótese inicial de solução > Geração de resumo consultivo
 
 ---
 
-### Camada de Conhecimento
+## Módulos Principais
 
-Base responsável por armazenar conhecimento necessário para apoiar as decisões do sistema.
+### Interpretador de Contexto
 
-Fontes possíveis:
-
-* portfólio da Clear IT;
-* documentação técnica;
-* casos anteriores;
-* padrões consultivos;
-* conhecimento especializado dos profissionais.
+Responsável por interpretar a descrição inicial fornecida pelo cliente.
 
 ---
 
-### Camada de Saída
+### Identificador de Dor
 
-Responsável por gerar os resultados esperados.
-
-Saídas previstas:
-
-* perguntas contextualizadas;
-* identificação de informações ausentes;
-* recomendações iniciais;
-* resumo executivo;
-* geração de follow-up;
-* próximos passos.
+Responsável por identificar qual problema real existe por trás da demanda apresentada.
 
 ---
 
-## Tecnologias Previstas
+### Classificador de Domínio
 
-Backend:
+Responsável por identificar área tecnológica relacionada.
 
-* Python
-* FastAPI
+Exemplos:
 
-Camada de Inteligência Artificial:
-
-* OpenAI API
-* LangGraph
-
-Banco de Dados:
-
-* PostgreSQL
-* Banco vetorial
-
-Possíveis integrações futuras:
-
-* CRM
-* Base documental interna
-* Sistemas de propostas comerciais
+* infraestrutura;
+* nuvem;
+* cibersegurança;
+* observabilidade;
+* automação.
 
 ---
 
-## Evolução Técnica Esperada
+### Motor de Conhecimento
 
-O sistema inicialmente atuará como assistente de discovery e poderá evoluir progressivamente até se tornar um copiloto inteligente de pré-vendas com maior autonomia de apoio consultivo.
+Consulta base interna contendo portfólio e conhecimento da empresa.
+
+---
+
+### Gerador Consultivo
+
+Gera perguntas e hipóteses de solução.
+
+---
+
+### Resumo Estratégico
+
+Gera resumo final para equipe de pré-vendas.
+
