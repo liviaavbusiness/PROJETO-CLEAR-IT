@@ -1,259 +1,230 @@
-# PROJETO CLEAR IT - Sistema Inteligente de Inteligência Consultiva para Pré-Vendas
+# PROJETO CLEAR IT - Copiloto Inteligente de Pré-Vendas
 
-Projeto desenvolvido para o desafio proposto pela Clear IT com o objetivo de estruturar, padronizar e escalar o conhecimento consultivo utilizado no processo de pré-vendas técnicas através de Inteligência Artificial.
-
----
-
-# 1. Visão Geral do Projeto
-
-A Clear IT atua em um modelo de venda consultiva altamente técnica, oferecendo soluções complexas em infraestrutura, nuvem, cibersegurança, observabilidade, automação e serviços gerenciados.
-
-Atualmente, grande parte da capacidade de diagnosticar necessidades dos clientes e estruturar soluções adequadas depende diretamente do conhecimento acumulado por especialistas técnicos da empresa.
-
-O objetivo deste projeto é construir um sistema inteligente capaz de transformar parte desse conhecimento consultivo em um processo estruturado, reutilizável e escalável, apoiando o processo de pré-vendas e reduzindo dependência operacional sobre especialistas específicos.
-
-Mais do que automatizar tarefas, o projeto busca transformar inteligência humana especializada em capacidade organizacional replicável.
+Sistema baseado em Inteligência Artificial para estruturar, padronizar e escalar o conhecimento consultivo utilizado no processo de pré-vendas técnicas da Clear IT.
 
 ---
 
-# 2. Contexto do Desafio
+# 1. Visão do Projeto
 
-A Clear IT é uma empresa brasileira especializada em soluções tecnológicas corporativas voltadas ao setor privado.
+A Clear IT atua no mercado corporativo oferecendo soluções especializadas em infraestrutura, nuvem, cibersegurança, observabilidade, automação e serviços gerenciados.
 
-Seu portfólio contempla projetos complexos e personalizados em múltiplos domínios tecnológicos, exigindo forte atuação consultiva durante o processo comercial.
+Seu modelo comercial depende fortemente de um processo consultivo técnico, no qual especialistas interpretam necessidades complexas dos clientes e constroem soluções altamente personalizadas.
 
-A construção de propostas depende diretamente da capacidade de interpretar cenários empresariais complexos e traduzir necessidades de negócio em arquiteturas tecnológicas aderentes.
+O objetivo deste projeto é desenvolver um sistema inteligente capaz de apoiar esse processo, transformando conhecimento técnico especializado em um ativo organizacional reutilizável, padronizado e escalável.
 
-O desafio proposto consiste em compreender esse processo consultivo e desenvolver uma solução baseada em Inteligência Artificial capaz de estruturar parte dessa inteligência operacional.
-
----
-
-# 3. Problema Central do Negócio
-
-O principal desafio da Clear IT não está simplesmente em automatizar a pré-venda. O problema central identificado consiste na excessiva dependência do conhecimento consultivo concentrado em especialistas técnicos responsáveis por interpretar oportunidades comerciais complexas.
-
-Atualmente, esse conhecimento encontra-se majoritariamente distribuído entre profissionais específicos, sem estruturação formal como processo organizacional reutilizável.
-
-Como consequência:
-
-* alta dependência de especialistas seniores;
-* dificuldade em escalar operações mantendo qualidade consultiva;
-* retrabalho causado por briefings incompletos;
-* inconsistência entre diferentes processos de discovery;
-* tempo elevado na construção de propostas técnicas;
-* dificuldade em transferir conhecimento para novos profissionais.
-
-O conhecimento mais valioso da empresa encontra-se nas pessoas e não em processos estruturados.
+Mais do que automatizar tarefas, a proposta busca estruturar inteligência consultiva hoje concentrada em pessoas específicas dentro da empresa.
 
 ---
 
-# 4. Público Estratégico
+# 2. Problema de Negócio
+
+Atualmente, grande parte da qualidade do processo de pré-vendas depende diretamente da experiência individual dos especialistas técnicos responsáveis por interpretar demandas e desenhar soluções adequadas para cada cliente.
+
+Esse cenário gera dependência operacional sobre profissionais específicos e dificulta a escalabilidade do processo consultivo.
+
+Principais consequências identificadas:
+
+* dependência excessiva de especialistas seniores;
+* baixa padronização entre diferentes processos de pré-vendas;
+* retrabalho causado por levantamentos incompletos;
+* inconsistência na coleta de requisitos técnicos e de negócio;
+* aumento no tempo necessário para construção de propostas;
+* dificuldade de transferência de conhecimento para novos profissionais.
+
+Hoje, parte do conhecimento mais estratégico da empresa encontra-se distribuído entre especialistas e não estruturado como processo organizacional.
+
+---
+
+# 3. Público Estratégico
 
 ## Usuários Diretos
 
-Profissionais que utilizarão diretamente o sistema durante o processo comercial.
+Profissionais que conduzem ou participam diretamente do processo de pré-vendas.
 
-* Equipe de Pré-Vendas
-* Engenheiros de Solução
-* Arquitetos de Solução
-* Especialistas Técnicos Consultivos
+* equipe de pré-vendas;
+* engenheiros de solução;
+* arquitetos de solução;
+* especialistas técnicos consultivos.
 
 ---
 
 ## Usuários Indiretos
 
-Profissionais impactados pela qualidade do processo consultivo.
+Profissionais impactados pela qualidade do processo comercial e técnico.
 
-* Equipe Comercial
-* Lideranças Técnicas
-* Equipe de Operações
-* Gestores Comerciais
-* Clientes corporativos atendidos pela empresa
+* equipe comercial;
+* lideranças técnicas;
+* equipe de operações;
+* gestores comerciais.
 
 ---
 
-# 5. Dor do Público Atendido pela Clear IT
+## Cliente Final Atendido pela Clear IT
 
-A Clear IT atende empresas privadas que operam ambientes tecnológicos críticos e necessitam de soluções robustas para garantir segurança, continuidade operacional e evolução tecnológica. Esses clientes normalmente enfrentam problemas complexos que exigem diagnóstico consultivo especializado.
+A empresa atende organizações privadas que operam ambientes tecnológicos críticos e dependem de infraestrutura robusta, segurança digital, disponibilidade contínua e evolução tecnológica.
 
-Principais dores observadas no público atendido:
+Perfis recorrentes:
 
-* ambientes tecnológicos com baixa escalabilidade;
+* grandes empresas;
+* indústrias;
+* hospitais;
+* instituições financeiras;
+* varejo;
+* empresas com operações críticas.
+
+---
+
+# 4. Dor do Cliente Atendido pela Clear IT
+
+Os clientes da Clear IT normalmente não chegam apresentando uma solução desejada.
+
+Na maioria dos casos, apresentam sintomas ou problemas de negócio que precisam ser interpretados tecnicamente.
+
+Principais dores observadas:
+
+* ambientes com baixa escalabilidade;
 * infraestrutura crítica suscetível a falhas;
-* baixa maturidade em segurança digital;
-* dificuldade em monitorar ambientes tecnológicos complexos;
-* ausência de observabilidade completa dos sistemas;
+* baixa maturidade em cibersegurança;
+* dificuldade em monitorar ambientes complexos;
+* vulnerabilidades operacionais;
 * baixa capacidade de resposta a incidentes;
-* vulnerabilidades operacionais e riscos de indisponibilidade;
-* dificuldade em modernizar infraestrutura legada;
-* necessidade de reduzir riscos operacionais e financeiros.
+* riscos relacionados à indisponibilidade de sistemas;
+* dificuldade em modernizar ambientes legados;
+* necessidade de automação operacional.
 
-Frequentemente, o cliente não consegue identificar exatamente qual solução tecnológica precisa. Ele apresenta sintomas, e cabe à Clear IT interpretar o problema real.
-
----
-
-# 6. Processo Atual de Pré-Vendas
-
-O fluxo atual depende fortemente da interpretação técnica humana. Processo identificado:
-
-Cliente apresenta necessidade inicial > Equipe comercial recebe oportunidade > Pré-vendas realiza entendimento inicial > Especialistas técnicos aprofundam análise > Necessidade empresarial é traduzida em necessidade tecnológica > Especialistas associam necessidade ao portfólio da empresa > Arquitetura inicial é construída > Proposta técnica personalizada é gerada
-
-Atualmente, a maior parte da inteligência desse processo está concentrada em especialistas específicos.
+O papel consultivo da Clear IT consiste justamente em interpretar esse cenário e transformar a necessidade empresarial em solução tecnológica adequada.
 
 ---
 
-# 7. Objetivo Estratégico do Projeto
+# 5. Objetivo do Projeto
 
-Construir um sistema inteligente capaz de estruturar parte do raciocínio consultivo utilizado pelos especialistas da Clear IT durante o processo de pré-vendas.
+Construir um sistema inteligente capaz de reproduzir parte do raciocínio consultivo utilizado pelos especialistas da Clear IT durante o processo de análise inicial de oportunidades comerciais.
 
-O sistema deverá apoiar profissionais menos experientes durante a análise inicial das oportunidades comerciais, aumentando padronização, reduzindo retrabalho e tornando parte do conhecimento consultivo reutilizável dentro da organização.
+O sistema deverá apoiar profissionais de pré-vendas durante a interpretação da necessidade do cliente, auxiliando na construção de diagnósticos mais completos e reduzindo dependência operacional sobre especialistas específicos.
 
-O sistema não possui objetivo de substituir especialistas humanos. Seu objetivo é estruturar conhecimento e ampliar capacidade operacional da empresa.
+O objetivo não é substituir especialistas humanos.
+
+O objetivo é estruturar inteligência consultiva e ampliar capacidade operacional da empresa.
 
 ---
 
-# 8. MVP Definido
+# 6. MVP Definido
 
-O MVP será um agente inteligente consultivo capaz de replicar parcialmente o raciocínio utilizado pelos especialistas durante o processo inicial de análise das oportunidades comerciais.
+O MVP será um **Agente Inteligente de Pré-Vendas Consultivas**, responsável por apoiar a análise inicial de oportunidades comerciais através da simulação parcial do raciocínio normalmente utilizado pelos especialistas da Clear IT.
 
-Funções centrais do MVP:
+O sistema deverá receber informações iniciais sobre a necessidade apresentada pelo cliente e conduzir uma análise consultiva estruturada.
 
-* interpretar contexto inicial apresentado pelo cliente;
+Fluxo esperado de funcionamento:
+
+Receber contexto inicial da oportunidade > Interpretar qual necessidade o cliente está apresentando > Identificar qual problema empresarial existe por trás da demanda inicial > Classificar qual domínio tecnológico está envolvido > Consultar base de conhecimento da Clear IT > Identificar informações ausentes importantes para o diagnóstico > Gerar perguntas contextualizadas para aprofundamento consultivo > Relacionar necessidade ao portfólio da empresa > Estruturar hipótese inicial de solução > Gerar resumo consultivo para apoio à equipe de pré-vendas.
+
+---
+
+# 7. Capacidades Obrigatórias do MVP
+
+O sistema deverá ser capaz de:
+
+* interpretar o contexto inicial apresentado pelo cliente;
 * identificar a dor real por trás da demanda inicial;
-* classificar domínio tecnológico relacionado;
-* identificar informações ausentes no diagnóstico;
-* gerar perguntas consultivas contextualizadas;
-* relacionar necessidade ao portfólio da Clear IT;
-* estruturar hipóteses iniciais de solução;
-* gerar resumo consultivo para apoio à equipe de pré-vendas.
-
-O foco do MVP não é automatizar vendas. O foco é estruturar inteligência consultiva.
-
----
-
-# 9. Arquitetura Conceitual do Sistema
-
-O sistema deverá operar em múltiplas camadas de raciocínio.
-
-Fluxo conceitual:
-
-Entrada do contexto do cliente > Interpretação contextual > Identificação da dor real > Classificação do domínio tecnológico > Consulta à base de conhecimento interna > Detecção de lacunas de informação > Geração de perguntas complementares > Associação com portfólio da empresa > Construção de hipótese consultiva > Geração de resumo estratégico
-
-O sistema deverá simular parcialmente o raciocínio normalmente realizado pelos especialistas técnicos da empresa.
+* compreender o cenário empresarial apresentado;
+* detectar lacunas de informação relevantes;
+* sugerir perguntas consultivas contextualizadas;
+* relacionar necessidades ao portfólio da Clear IT;
+* identificar possíveis caminhos de solução;
+* estruturar um resumo consultivo inicial;
+* apoiar profissionais menos experientes durante o discovery.
 
 ---
 
-# 10. Hipóteses em Validação
+# 8. Escopo Fora do MVP
 
-Hipóteses que precisam ser validadas junto à Clear IT.
+Nesta primeira versão, o sistema não terá como objetivo:
 
-[ ] O conhecimento consultivo atualmente não está formalmente documentado.
+* gerar proposta comercial completa;
+* substituir especialistas técnicos;
+* definir arquitetura técnica final;
+* gerar orçamento financeiro;
+* automatizar negociação comercial;
+* tomar decisões finais sobre recomendação técnica.
 
-[ ] Grande parte da capacidade técnica da pré-venda depende da experiência acumulada dos especialistas.
-
-[ ] O retrabalho atual está relacionado à coleta incompleta de informações nas etapas iniciais.
-
-[ ] Parte do raciocínio consultivo pode ser estruturado em lógica reutilizável.
-
-[ ] Um sistema inteligente pode apoiar profissionais menos experientes durante análises iniciais.
-
-[ ] A padronização do processo consultivo pode reduzir tempo de construção das propostas.
+O foco inicial será estruturar inteligência consultiva durante a fase inicial da pré-venda.
 
 ---
 
-# 11. Métricas de Sucesso
+# 9. Portfólio de Soluções da Clear IT
+
+O sistema deverá compreender o portfólio atual da empresa para relacionar corretamente problemas identificados às possíveis soluções existentes.
+
+Áreas estratégicas:
+
+## Infraestrutura e Nuvem
+
+* estratégia de adoção em nuvem;
+* resiliência de dados;
+* armazenamento corporativo;
+* ambientes híbridos;
+* comunicação entre campus e datacenter;
+* infraestrutura para inteligência artificial.
+
+---
+
+## Cibersegurança
+
+* proteção de perímetro;
+* proteção de dispositivos;
+* proteção de identidade;
+* gestão de vulnerabilidades;
+* microsegmentação;
+* conscientização e simulações.
+
+---
+
+## Centro de Operações de Segurança
+
+* gestão de logs e eventos;
+* monitoramento contínuo;
+* análise comportamental;
+* inteligência de ameaças em tempo real;
+* automação e resposta a incidentes.
+
+---
+
+## Centro de Operações Cognitivas
+
+* observabilidade de infraestrutura;
+* automação operacional;
+* análise preditiva;
+* dashboards gerenciais;
+* recomendações de evolução tecnológica.
+
+---
+
+# 10. Métricas de Sucesso
 
 Indicadores esperados após implementação.
 
 * redução do retrabalho técnico;
-* redução do tempo de análise inicial das oportunidades;
-* aumento da completude dos briefings comerciais;
+* redução do tempo de análise inicial;
+* aumento da qualidade dos briefings recebidos;
 * menor dependência operacional de especialistas específicos;
 * maior padronização entre diferentes profissionais;
-* aceleração do processo consultivo comercial.
-
----
-
-# 12. Sprint 1 — Perguntas de Validação com a Clear IT
-
-Perguntas estratégicas para validação do entendimento do problema.
-
-1. Quando uma oportunidade chega até a equipe, como acontece o processo de interpretação até que um especialista consiga entender o que realmente precisa ser investigado com o cliente?
-
-2. Como os especialistas constroem o raciocínio que transforma uma necessidade empresarial em uma solução tecnológica específica?
-
-3. Em quais momentos do processo comercial atual a qualidade da oportunidade costuma se deteriorar e gerar retrabalho posteriormente?
-
-4. De que forma o conhecimento consultivo dos especialistas foi sendo construído ao longo do tempo dentro da empresa?
-
-5. Quais erros durante o discovery costumam gerar os impactos mais críticos na construção das propostas?
-
-6. Quais sinais indicariam que uma equipe compreendeu corretamente o problema real que a empresa deseja resolver neste desafio?
-
-7. Como acontece o processo de decisão até concluir se determinada necessidade realmente pode ser atendida pelo portfólio atual da empresa?
-
-8. Em quais etapas do processo atual existe maior dependência operacional da experiência individual dos especialistas?
-
-9. Atualmente existe algum processo, metodologia interna ou padrão consultivo utilizado pelos especialistas durante análises técnicas?
-
-10. Como vocês enxergam a evolução futura de uma solução desse tipo dentro da operação comercial da empresa?
-
----
-
-# 13. Evolução do Produto
-
-O projeto será desenvolvido de forma incremental.
-
-### MVP 1 — Assistente Consultivo Inteligente
-
-Sistema focado em interpretação inicial e apoio ao diagnóstico.
-
----
-
-### MVP 2 — Sistema Inteligente de Recomendação de Soluções
-
-Relaciona necessidades identificadas ao portfólio completo da empresa.
-
----
-
-### MVP 3 — Gerador Inteligente de Propostas Consultivas
-
-Estrutura automaticamente documentação comercial inicial.
-
----
-
-### MVP 4 — Copiloto Inteligente de Engenharia Comercial
-
-Sistema capaz de acompanhar toda a jornada consultiva de pré-vendas ponta a ponta.
-
----
-
-# 14. Visão de Longo Prazo
-
-No longo prazo, o projeto poderá evoluir para uma plataforma capaz de transformar integralmente o conhecimento consultivo da Clear IT em inteligência organizacional reutilizável.
-
-A empresa deixará de depender exclusivamente da experiência individual de especialistas específicos e passará a operar com uma capacidade consultiva parcialmente estruturada em Inteligência Artificial.
-
-O verdadeiro objetivo não é apenas automatizar pré-vendas.
-
-O objetivo final é transformar conhecimento humano especializado em vantagem competitiva escalável.
+* aceleração no processo de construção das propostas.
 
 ---
 
 # Estado Atual do Projeto
 
-Sprint 1 — Discovery Estratégico e Estruturação do Problema
+Sprint 1 — Descoberta e Estruturação Estratégica
 
 Status atual:
 
-* Entendimento do negócio concluído
-* Público e dores mapeados
-* Processo atual documentado
-* Problema central identificado
-* MVP definido estrategicamente
-* Arquitetura conceitual modelada
-* Perguntas para validação prontas
-* Início da construção técnica pendente
+* entendimento do desafio concluído;
+* problema central identificado;
+* público estratégico mapeado;
+* dores do cliente documentadas;
+* MVP definido conceitualmente;
+* perguntas de validação preparadas;
+* arquitetura técnica ainda não iniciada.
 
 ---
 
